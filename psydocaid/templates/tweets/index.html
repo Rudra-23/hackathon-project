@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tweets</title>
+</head>
+<body>
+    <b>Hello twitter</b>
+        {% for tweets,sentiment in arr %}
+        <ul>
+        <li><b>Tweet:</b> {{ tweets }}</li>
+        <li><b>Sentiment:</b> {{ sentiment }}</li>
+        </ul>
+        {% endfor %}
+
+    <b> Total score </b>
+    <br>
+    <b>Positive: </b>{{pos}}
+    <b>Negative: </b>{{neg}}
+    <b>Total: </b> {{total}}
+</body>
+</html>

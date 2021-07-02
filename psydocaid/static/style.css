@@ -1,0 +1,137 @@
+#sign_in{
+
+  text-align: center;
+  
+  
+  
+  
+  
+  }
+  body video {
+  
+      min-width: 100%;
+      opacity: 0.8;
+      min-height: 100%;
+      z-index: -1000;
+  
+  
+      position: fixed;
+      pointer-events: none;
+  
+      background-size:cover;
+      autoplay:true;
+      scroll-behavior: smooth;
+  
+  
+  }
+  .head_sign_in{
+    width:100%;
+  
+    background-color:purple;
+    text-align: center;
+    color: white;
+    font-size:20px;
+    line-height: 50px;
+    border-radius: 10px;
+    margin-bottom:3%;
+  
+  
+  
+  
+  }
+  .btn-sub{
+  width:100%;
+  
+  
+  }
+  #something{
+    margin-top:20%;
+  }
+  .welcome_heading{
+    font-family: 'Cinzel', serif;
+  /* font-family: 'Montserrat', sans-serif; */
+  
+    font-size:70px;
+  }
+  .welcome_para{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Cinzel', serif;
+    margin-top: 3%;
+    color: #db0000;
+  
+  }
+  .welcome_para:hover{
+    text-decoration: underline;
+    color: purple;
+  }
+  #welcome_ji{
+    margin-top:10%;
+  
+  
+  }
+  #analyze_profile{
+    margin-top:3%;
+  
+  
+    text-align:center;
+  
+  
+  
+  
+  
+  }
+  #videobg{
+    top: 0px;
+  
+  }
+  #new_ana{
+    font-family: 'Cinzel', serif;
+  }
+  #twitter_profile{
+  margin-bottom:5%;
+  margin-top: 5%;
+  
+  
+  
+  }
+  #Header{
+  background-color: purple;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  height:200px;
+  
+  
+  
+  }
+  .flex-row{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    justify-content: flex-end;
+  }
+  #brand{
+    text-decoration: none;
+  
+  
+  }
+  #profile_picture{
+    border-radius:5%;
+  
+  
+  }
+  .frg{
+    margin-bottom:2%;
+    font-family: 'Cinzel', serif;
+  
+  }
+  
+  .card,#buttonid{
+    margin-bottom:2%;
+  }
+  
+  #land1{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size:40px;
+  
+  }
+  
